@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594752764 source:c:\adnan\audacity\code block programs\test111\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

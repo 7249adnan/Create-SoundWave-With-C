@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593918079 source:c:\adnan\audacity\code block programs\waves\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

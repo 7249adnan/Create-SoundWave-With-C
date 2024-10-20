@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594751886 source:c:\adnan\audacity\code block programs\stero\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

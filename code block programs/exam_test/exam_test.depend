@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592413691 source:c:\adnan\audacity\code block programs\exam_test\main.cpp
+	<iostream>
+	<string>
+

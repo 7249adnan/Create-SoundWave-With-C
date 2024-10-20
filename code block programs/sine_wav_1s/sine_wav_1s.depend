@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592900792 source:c:\adnan\audacity\code block programs\sine_wav_1s\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1592282461 source:c:\adnan\audacity\code block programs\sine_wav_1s\untitled2.c
+	<stdio.h>
+	<conio.h>
+
